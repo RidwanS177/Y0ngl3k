@@ -3,7 +3,7 @@ if Trial then
    Trial = false
 end
 
-delaytele = 30
+delaytele = 40
 
 --[[
 delayht = 105 -- DELAY HARVEST
