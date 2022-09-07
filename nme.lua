@@ -3,6 +3,8 @@ if Trial then
    Trial = false
 end
 
+delaytele = 30
+
 --[[
 delayht = 105 -- DELAY HARVEST
 altdelayht = 60 -- UBAH JADI 0 JIKA SERVER BURIK
