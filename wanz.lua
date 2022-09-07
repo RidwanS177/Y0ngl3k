@@ -850,3 +850,12 @@ Wann[208] = f({1,2,3,4,5,6,7,4,9,10,2,5,13, {"P","e","t","a","n","i","F","1","s"
 
 Wann[209] = f({1,2,3,4,5,6, {"Z","1","F","4","N","X"}})
 --Z1F4NX - 390510918586597376
+
+ListBuyer = {}
+for _,v in pairs(Wann) do
+    ListBuyer[v]=true
+end
+
+ListPutih = {}
+
+ListPutih["DearRidho"] = true
