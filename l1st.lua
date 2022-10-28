@@ -3,5 +3,6 @@ Member = {
     {iddc = "320813241003409420", Sandi = "XXX", Url = "https://raw.githubusercontent.com/JordanMarcelino/bot-checker/master/Bot_Track.lua"},
     {iddc = "209222461357686795", Sandi = "XXX", Url = "https://raw.githubusercontent.com/iMashedGT/zczxczosadkdaskasdkmoasdkoadswasd/main/ododo"},
     {iddc = "1009508942117863557", Sandi = "XXX", Url = "https://raw.githubusercontent.com/Mamboy13/Offline-Online/main/Default_Github.lua.txt"},
-    {iddc = "941902260923940885", Sandi = "XXX", Url = "https://raw.githubusercontent.com/Bintang278/tanzcekbot/main/Default_Github.lua"}
+    {iddc = "941902260923940885", Sandi = "XXX", Url = "https://raw.githubusercontent.com/Bintang278/tanzcekbot/main/Default_Github.lua"},
+    {iddc = "404191532149768193", Sandi = "XXX", Url = "https://raw.githubusercontent.com/petkem/bot-checker/main/bot-check"}
 }
