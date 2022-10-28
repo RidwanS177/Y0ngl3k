@@ -10,5 +10,6 @@ Member = {
     {iddc = "650576283998093322", Sandi = "2709", Url = "https://raw.githubusercontent.com/ZURBBB/cekbot/main/CEKBOT.lua"},
     {iddc = "943906130629918800", Sandi = "701", Url = "https://raw.githubusercontent.com/Zakt701/Zakt/main/Zakt_Github.lua"},
     {iddc = "367654945136050179", Sandi = "XXX", Url = "https://raw.githubusercontent.com/Vlefix/BotGua/main/BOT%20LOG.lua"},
-    {iddc = "773824460393283585", Sandi = "XXX", Url = "https://raw.githubusercontent.com/dionendraa/botchecker/main/Default_Github.lua"}
+    {iddc = "773824460393283585", Sandi = "XXX", Url = "https://raw.githubusercontent.com/dionendraa/botchecker/main/Default_Github.lua"},
+    {iddc = "550985600317259796", Sandi = "XXX", Url = "https://raw.githubusercontent.com/Rfajah/CekBots/main/Default_Github.lua.txt"}
 }
